@@ -1,3 +1,3 @@
 # Notes
 
-Nothing here yet.
+A first note.
