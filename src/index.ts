@@ -1,3 +1,3 @@
 import { add } from "./lib/math.js";
 
-export const answer = add(40, 2);
+export const answer = add(41, 1);
