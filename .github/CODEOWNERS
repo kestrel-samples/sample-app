@@ -1,4 +1,7 @@
-*        @kestrel-samples/maintainers
-/src/    @kestrel-samples/maintainers
-!*.md    @kestrel-samples/maintainers
-docs/
+*            @kestrel-samples/maintainers
+/src/        @kestrel-samples/maintainers
+!*.md        @kestrel-samples/maintainers
+docs/        @kestrel-samples/no-such-team
+*.ts         owner-without-at
+[Section]
+/src/\#lib   @kestrel-samples/maintainers
